@@ -2,10 +2,7 @@
 ## NRP     : 52236000023
 ## Kelas   : 11 GT-A
 
-# Single Linked List Implementation
-
-Ini adalah implementasi sederhana dari Single Linked List dalam bahasa C++. Program ini mencakup operasi-operasi dasar pada linked list, seperti menyisipkan simpul, menampilkan isi linked list, mencari simpul tertentu, dan menyisipkan simpul terakhir.
-
+# Praktikum Overview Linked List
 
 1. **Menyisipkan Simpul Ujung**
 
