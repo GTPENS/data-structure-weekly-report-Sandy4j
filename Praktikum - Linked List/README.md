@@ -2,7 +2,7 @@
 ## NRP     : 52236000023
 ## Kelas   : 11 GT-A
 
-# Praktikum 01: Overview Linked List
+# Praktikum 02: Overview Linked List
 
 1. **Menyisipkan Simpul Ujung**
 
